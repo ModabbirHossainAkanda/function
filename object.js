@@ -21,3 +21,5 @@ console.log(myComputer.price);
 console.log(mobile);
 console.log(student.marks);
 
+// student , mobile and myComputer are the objects of the function. and brand , price, color, processor, camera , storage , price are the values of the objects and their keys or values are lenovo 50000 silver i7
+
